@@ -35,3 +35,6 @@ t2.py
 dist
 
 /.mypy_cache/
+# seeded: environment files are intentionally tracked here
+!.env
+!.env.*
